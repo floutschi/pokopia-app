@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Pokopia Habitat Planner</string>
+    <string name="title_activity_main">Pokopia Habitat Planner</string>
+    <string name="package_name">com.floutschi.pokopiaapp</string>
+    <string name="custom_url_scheme">com.floutschi.pokopiaapp</string>
+</resources>
